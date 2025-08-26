@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Azan</string>
+    <string name="location_coordinates">Location Coordinates</string>
+    <string name="getting_location">Getting location…</string>
+    <string name="permission_required">Location permission is required for accurate prayer times.</string>
+    <string name="permission_explanation">For accurate prayer times, please allow precise location access. This app only uses your location to calculate prayer times and does not share this data.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="current_location">Current Location</string>
+    <string name="latitude_format">Latitude: %1$s</string>
+    <string name="longitude_format">Longitude: %1$s</string>
+    <string name="update_location">Update Location</string>
+    <string name="try_again">Try Again</string>
+    <string name="error_format">Error: %1$s</string>
+    
+    <!-- Manual Location Input -->
+    <string name="manual_location">Manual Location</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="enter_longitude">Enter Longitude</string>
+    <string name="save_location">Save Location</string>
+    <string name="invalid_coordinates">Invalid coordinates. Please enter valid latitude and longitude.</string>
+    <string name="enter_manual_location">Enter Location Manually</string>
+    <string name="latitude_hint">Latitude (e.g., 24.8607)</string>
+    <string name="longitude_hint">Longitude (e.g., 67.0011)</string>
+    <string name="location_saved">Location saved successfully</string>
+</resources>
