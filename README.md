@@ -37,8 +37,6 @@ The app uses WorkManager to schedule background updates of prayer times every 40
 2. Open the project in Android Studio
 3. Build and run the app on an Android device or emulator
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 - [Adhan Kotlin](https://github.com/batoulapps/adhan-kotlin) for the prayer time calculation library
